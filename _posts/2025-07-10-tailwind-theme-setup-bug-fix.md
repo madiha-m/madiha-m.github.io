@@ -6,8 +6,6 @@ categories: [Django, TailwindCSS, BugFix]
 tags: [django, tailwind, theme, windows]
 ---
 
-![Tailwind Theme Setup Bug](../assets/images/tailwind-bug-banner.png)
-
 👋 **Hi everyone!**  
 So I was setting up Tailwind CSS in my Django blog project using `django-tailwind` — but the very first command crashed. And yes, it wasted my time 😤
 
@@ -113,7 +111,6 @@ This issue happened on:
 - ⚙️ Tailwind via `django-tailwind`
 
 Let me know if you’ve faced the same — or fixed it differently!  
-🔗 [Check the full repo](https://github.com/madiha-m/bug_to_blog.git)  
 📝 Read this blog on [madiha-m.github.io](https://madiha-m.github.io)
 
 — Madiha 💙
