@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚡ Fixing Ant Design + Next.js 15 + React 19 Runtime Error"
-date: 2025-08-30 14:00:00 +0500
+date: 2025-08-29 14:00:00 +0500
 categories: [React, Next.js, BugFix]
 tags: [nextjs, react19, antd, bugfix, patch, runtime-error]
 ---
